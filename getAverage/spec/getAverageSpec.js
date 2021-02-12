@@ -9,5 +9,9 @@ describe('getAverage', () => {
     it('will return 3', () => {
       expect(getAverage([1, 2, 3, 4, 5])).toEqual(3);
     });
+
+    it(' will return 1', () => {
+      expect(getAverage([1, 1, 1, 1, 1, 1, 1, 2])).toEqual(1);
+    });
   });
 });
