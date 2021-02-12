@@ -1,1 +1,3 @@
-hero = () => {}
+hero = () => {
+  return true;
+}
