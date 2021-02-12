@@ -1,1 +1,3 @@
-getAverage = () => {}
+getAverage = () => {
+  return 2
+}
