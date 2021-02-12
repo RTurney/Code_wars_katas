@@ -7,5 +7,4 @@ describe('Hero', () => {
   it('will die if he does not have enough bullets', () => {
     expect(hero(1, 1)).toEqual(false);
   });
-
 });
