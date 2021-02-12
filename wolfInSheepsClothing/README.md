@@ -12,5 +12,5 @@ Note: there will always be exactly one wolf in the array.
 
 ## Completed languages:
 
-*[ ] javascript
+*[x] javascript
 *[ ] Ruby
