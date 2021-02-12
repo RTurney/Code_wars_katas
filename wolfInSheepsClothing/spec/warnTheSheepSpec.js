@@ -10,7 +10,7 @@ describe('Warn the sheep', () => {
   describe('will warn a sheep', () => {
 
     it('if sheep is in front of the wolf', () => {
-      expect(warnTheSheep(['wolf', 'sheep'])).toEqual("Oi! You are about to be eaten by a wolf");
+      expect(warnTheSheep(['wolf', 'sheep'])).toEqual("Oi! Sheep number 1! You are about to be eaten by a wolf");
     });
   });
 });
