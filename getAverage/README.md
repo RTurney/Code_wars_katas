@@ -11,4 +11,4 @@ The array will never be empty.
 
 ## Completed languages:
 
-*[ ] Javascript 
+*[x] Javascript 
