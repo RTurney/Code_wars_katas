@@ -9,4 +9,4 @@ Return True if yes, False otherwise :)
 
 # Languages completed in
 
-*[ ] javascript
+*[x] javascript
