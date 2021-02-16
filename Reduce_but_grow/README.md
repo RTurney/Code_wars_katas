@@ -10,4 +10,4 @@ Example:
 
 ## Languages completed:
 
-*[ ] Ruby
+*[x] Ruby
