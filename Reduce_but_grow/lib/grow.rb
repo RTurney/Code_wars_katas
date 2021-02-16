@@ -1,3 +1,7 @@
 def grow(array)
-  1
+  product = 1
+  array.each do |number|
+    product *= number
+  end
+  product
 end
