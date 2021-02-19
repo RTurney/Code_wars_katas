@@ -23,4 +23,12 @@ describe('century from year', () =>{
   it('will return 5 for 401', () => {
     expect(centuryFromYear(401)).toEqual(5);
   });
+
+  it('will return 10 for 999', () => {
+    expect(centuryFromYear(999)).toEqual(10);
+  });
+
+  it('will return 20 for 1999', () => {
+    expect(centuryFromYear(1999)).toEqual(20);
+  });
 });
