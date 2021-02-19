@@ -17,4 +17,12 @@ describe 'rental car calculator' do
     it "will return 100 for 3 days" do
       expect(rental_car_calculator(3)).to eq 100
     end
+
+    it "will return 220 for 6 days" do
+      expect(rental_car_calculator(6)).to eq 220
+    end
+
+    it "will return 230 for 7 days" do
+      expect(rental_car_calculator(7)).to eq 230
+    end
 end
