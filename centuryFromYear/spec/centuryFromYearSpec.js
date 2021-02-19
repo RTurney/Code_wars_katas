@@ -31,4 +31,8 @@ describe('century from year', () =>{
   it('will return 20 for 1999', () => {
     expect(centuryFromYear(1999)).toEqual(20);
   });
+
+  it('will return 18 for 1705', () => {
+    expect(centuryFromYear(1705)).toEqual(18);
+  });
 });

@@ -20,4 +20,4 @@ Input | Output
 
 
 ## Languages completed:
-* [ ] Javascript
+* [x] Javascript
