@@ -17,3 +17,7 @@ Input | Output
 ------|-------
 1876  | 19
 ------|-------
+
+
+## Languages completed:
+* [ ] Javascript
