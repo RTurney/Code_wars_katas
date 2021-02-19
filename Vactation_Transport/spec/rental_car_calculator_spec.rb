@@ -1,4 +1,4 @@
-require 'rentalCarCalculator'
+require 'rental_car_calculator'
 
 describe 'rental car calculator' do
 
