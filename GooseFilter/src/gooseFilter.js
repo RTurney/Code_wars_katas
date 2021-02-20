@@ -1,3 +1,4 @@
 function gooseFilter(array) {
-  return array
+
+  return noneGeese = array.filter(word => word !== "African")
 }
