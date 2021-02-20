@@ -15,4 +15,4 @@ Greg, Daniel | Hello Guest
 ## Languages completed:
 
 * [ ] Javascript
-* [ ] Ruby
+* [x] Ruby
