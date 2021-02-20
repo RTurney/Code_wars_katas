@@ -1,4 +1,4 @@
 
 def greeter(name, owner)
-  "Hello"
+  name == owner ? "Hello Boss" : "Hello guest"
 end
