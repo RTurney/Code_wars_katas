@@ -18,5 +18,5 @@ Input | Output
 
 # Languages completed:
 
-* [ ] Javascript
-* [ ] Ruby 
+* [x] Javascript
+* [ ] Ruby
