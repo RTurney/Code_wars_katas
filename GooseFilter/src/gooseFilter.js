@@ -1,4 +1,9 @@
-function gooseFilter(array) {
+const gooseArray = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"]
 
-  return noneGeese = array.filter(word => word !== "African")
+function gooseFilter(array) {
+  return noneGeese = array.filter(checkMatch)
+}
+
+const checkMatch = word => {
+  return !gooseArray.includes(word) ? true : false;
 }
