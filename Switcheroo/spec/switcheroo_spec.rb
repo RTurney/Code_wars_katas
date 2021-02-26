@@ -17,4 +17,12 @@ describe 'switcheroo' do
   it 'will bb for aa' do
     expect(switcheroo('aa')).to eq 'bb'
   end
+
+  it 'will return aa for bb' do
+    expect(switcheroo('bb')).to eq 'aa'
+  end
+
+  it 'will return bac for abc' do
+    expect(switcheroo('abc')).to eq 'bac'
+  end
 end
