@@ -2,7 +2,9 @@
 def switcheroo(string)
   if string == 'a'
     'b'
-  else
+  elsif string == 'b'
     'a'
+  else
+    string
   end
 end
