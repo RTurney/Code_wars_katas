@@ -13,4 +13,8 @@ describe 'switcheroo' do
   it 'will return c for c' do
     expect(switcheroo('c')).to eq 'c'
   end
+
+  it 'will bb for aa' do
+    expect(switcheroo('aa')).to eq 'bb'
+  end
 end
