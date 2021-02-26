@@ -1,4 +1,8 @@
 
 def switcheroo(string)
-  "b"
+  if string == 'a'
+    'b'
+  else
+    'a'
+  end
 end
