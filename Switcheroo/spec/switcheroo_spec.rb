@@ -25,4 +25,8 @@ describe 'switcheroo' do
   it 'will return bac for abc' do
     expect(switcheroo('abc')).to eq 'bac'
   end
+
+  it 'will return bbbacccabbb for aaabcccbaaa' do
+    expect(switcheroo('aaabcccbaaa')).to eq 'bbbacccabbb'
+  end
 end

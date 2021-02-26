@@ -10,6 +10,5 @@ def switcheroo(string)
       switched_string.push(chr)
     end
   end
-
   switched_string.join
 end
