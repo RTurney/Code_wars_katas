@@ -7,4 +7,8 @@ describe('Transform', () => {
   it('will return "4" for [4]', () => {
     expect(transform([4])).toEqual('4')
   })
+
+  it('will return "true" for [true]', () => {
+    expect(transform([true])).toEqual('true')
+  })
 })
