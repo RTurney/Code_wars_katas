@@ -1,3 +1,3 @@
-function transform(){
-  return 'box'
+function transform(array){
+  return array[0]
 }
