@@ -1,3 +1,3 @@
 function transform(array){
-  return array[0]
+  return String(array[0]);
 }
