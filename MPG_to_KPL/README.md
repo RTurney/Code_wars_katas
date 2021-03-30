@@ -12,4 +12,21 @@ Make sure to round off the result to two decimal points. If the answer ends with
 
 Some useful associations relevant to this kata: 1 Imperial Gallon = 4.54609188 litres 1 Mile = 1.609344 kilometres
 
-## How to run this code: 
+## How to run this code:
+
+Ensure all the relevant gems are installed:
+```
+bundle install
+```
+
+To run the tests and test coverage run:
+```
+rspec
+```
+
+To run this function and covert mpg to kpl:
+```
+irb -r './lib/converter'
+
+converter(mpg)
+```
