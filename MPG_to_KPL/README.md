@@ -14,9 +14,9 @@ Some useful associations relevant to this kata: 1 Imperial Gallon = 4.54609188 l
 
 ## How to run this code:
 
-Ensure all the relevant gems are installed:
+To ensure all necessary gems are installed:
 ```
-bundle install
+bundle
 ```
 
 To run the tests and test coverage run:
