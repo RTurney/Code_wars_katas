@@ -1,4 +1,5 @@
+# frozen_string_literal: true
 
 def converter(mpg)
-  0
+  mpg
 end

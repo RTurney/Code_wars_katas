@@ -3,10 +3,11 @@
     "coverage": {
       "/Users/richardturney/Documents/Projects/Code_Wars/MPG_to_KPL/spec/converter_spec.rb": {
         "lines": [
-          1,
+          null,
           null,
           1,
           null,
+          1,
           1,
           1,
           null,
@@ -16,12 +17,13 @@
       "/Users/richardturney/Documents/Projects/Code_Wars/MPG_to_KPL/lib/converter.rb": {
         "lines": [
           null,
+          null,
           1,
           1,
           null
         ]
       }
     },
-    "timestamp": 1617113735
+    "timestamp": 1617114130
   }
 }
