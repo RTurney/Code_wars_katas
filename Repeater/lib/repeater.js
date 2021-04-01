@@ -1,10 +1,11 @@
 
 function repeater(string, num) {
-  if(num === 2 ){
-    return "aa";
-  } else {
-    return string;
+  let resultString = [];
+
+  for (var i = 0; i < num; i++) {
+    resultString.push(string);
   }
+  return resultString.join('');
 };
 
 module.exports = repeater;
