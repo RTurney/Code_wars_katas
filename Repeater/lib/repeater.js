@@ -1,11 +1,6 @@
 
 function repeater(string, num) {
-  let resultString = [];
-
-  for (var i = 0; i < num; i++) {
-    resultString.push(string);
-  }
-  return resultString.join('');
+  return string.repeat(num);
 };
 
 module.exports = repeater;

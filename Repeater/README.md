@@ -21,3 +21,10 @@ To test this code run:
 ```
 yarn test
 ```
+Currently all tests are passing with 100% coverage.
+
+## Languages completed:
+
+* [x] javascript 
+* [ ] Ruby
+* [ ] Python
